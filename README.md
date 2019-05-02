@@ -63,5 +63,29 @@ This is how you have to use each file :
   ---> taiko --plugin taiko-screencast
 
   #To run file use command :
+         update the file with the path where you want the gif to get created 
+         taiko screenCastDemo.js
+
+
    
-  taiko screenCastDemo.js
+# File 6:screenShot.js
+
+
+  1.) This file uses "http://www.practiceselenium.com/welcome.html" website to demonstrate gif creation using taiko
+  
+
+  #To run file use command :
+  
+   update the file with the path where you want the screenshot to get created
+   
+   taiko screenShot.js
+   
+   # File 7:smartSelectors.js
+
+
+  1.) This file uses "http://www.makemytrip.com" website to demonstrate smart selectors in Taiko
+  
+
+  #To run file use command :
+  
+   taiko smartSelectors.js
