@@ -44,7 +44,24 @@ This is how you have to use each file :
  
 
    
+# File 4:interception.js
+
+1.) This file uses MakeMyTrip website to demonstrate interception of calls using Taiko
+     
+     Do not run this file directly , only use it as a refrence to understand how interception works.
+     
+   
+# File 5:screenCastDemo.js
 
 
+  1.) This file uses "http://www.practiceselenium.com/welcome.html" website to demonstrate gif creation using taiko
+  
+  we need to download the taiko-screencast plugin globally using the following command :
+  ---> npm install taiko-screencast -g
+  Then we need to connect it to the taiko in system using the following command :
+  
+  ---> taiko --plugin taiko-screencast
 
-
+  #To run file use command :
+   
+  taiko screenCastDemo.js
