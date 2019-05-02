@@ -13,7 +13,7 @@ To execute this file you have to input 3 parameters in the following format
 
 taiko basicTaikoCommands.js <senders-gmail-id>  <senders-gmail-password> <recievers-email-id> 
   
-# P.s.Make sure the gmail id you use does not have 2 factor authentication.
+#P.s.Make sure the gmail id you use does not have 2 factor authentication.
 
 
   
